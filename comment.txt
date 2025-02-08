@@ -1,1 +1,2 @@
-This is initial commit
+This SWBM input processing script. 
+1. Diversion/Water Right
